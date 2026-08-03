@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-xe8vjm.maxwin3030wq.cyou/sitemap.xml
